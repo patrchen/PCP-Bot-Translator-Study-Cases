@@ -1,0 +1,109 @@
+﻿Case: Back Pain  
+Patient Information
+Patient Name: Mark Reynolds, 45-year-old male
+Chief Complaint: Lower back pain for the past 4 weeks
+History of Present Illness
+Mark has had a dull, aching pain in his lower back for about a month. The pain started slowly and has been getting worse. It hurts most in the morning and after he sits for a long time at work. The pain feels better when he moves around. He does not feel pain going down his legs. He also does not feel numb or weak. He has not had any injuries or done any heavy lifting. Mark works at a desk and sits for many hours every day. He has been taking store-bought ibuprofen, which helps a little, but the pain comes back later in the day. He has not had a fever, lost weight, or had any problems using the bathroom.  
+Past Medical History
+* Mark has had mild high blood pressure for 5 years. He takes a pill called amlodipine every day.
+* He is overweight (his doctor says his BMI is about 31).
+* He has never had surgery.
+Family History
+* Father: High blood pressure (hypertension), back problems (degenerative disc disease)
+* Mother: Type 2 diabetes
+Social History
+* Mark works in an office and sits a lot, does not exercise much
+* Does not smoke, drinks alcohol sometimes—about 1 or 2 drinks on weekends.
+* He is married and has a supportive family.
+Review of Systems
+* Body & Muscles: His back feels stiff in the morning, but his joints are not red or swollen.
+* Nerves: He does not feel tingling or weakness in his legs.
+* General Health: He does not have a fever or feel very tired.
+* Bladder & Urine: He has no trouble peeing or using the bathroom.
+Additional Notes
+* Mark is worried his back pain might be something serious, like a slipped disc.
+* He wants ideas to help his back feel better without using medicine.
+* He’s asking for advice on how to sit and work in a way that’s better for his back.
+________________
+病例：背痛  
+患者信息
+患者姓名：马克·雷诺兹（Mark Reynolds），45岁男性
+主诉：下背部疼痛持续约4周
+现病史
+Mark 在过去一个月中一直感到下背部出现钝痛和酸痛感，疼痛起初较轻，逐渐加重。清晨和长时间久坐后疼痛最明显，活动时疼痛会有所缓解。他没有腿部放射痛，也没有麻木或无力的感觉。他近期没有受伤，也没有进行过重体力劳动。Mark 的工作是办公室文员，每天久坐数小时。他一直在服用非处方的ibuprofen布洛芬，虽有些许缓解，但疼痛在当天晚些时候会再次出现。他没有发烧、体重减轻或排便问题。
+既往病史
+   * 轻度高血压已持续5年，每天服用 Amlodipine 氨氯地平（5毫克）控制血压
+   * 超重（医生估算其 BMI 身体质量指数 约为31）
+   * 无手术史
+家族史
+   * 父亲：高血压、椎间盘退行性疾病
+   * 母亲：2型糖尿病
+社会史
+   * 办公室工作，生活方式久坐
+   * 不吸烟，偶尔饮酒（周末约1–2杯）
+   * 很少运动，长时间使用电脑
+   * 已婚，家庭关系良好 
+全身系统回顾
+   * 肌肉骨骼系统：早晨感到僵硬，无关节红肿
+   * 神经系统：无腿部麻木、无力或刺痛
+   * 全身症状：无发烧、寒战或体重异常减轻
+   * 泌尿系统：无尿失禁或排尿困难
+补充说明
+   * Mark担心自己的背痛可能是严重问题，如椎间盘突出。
+   * 他希望获得有关人体工学调整的建议，以及非药物的缓解方法。
+________________
+Caso: Dolor de Espalda  
+Información del Paciente
+Nombre del Paciente: Mark Reynolds, hombre de 45 años
+Motivo de Consulta: Dolor lumbar desde hace 4 semanas
+Historia de la Enfermedad Actual
+Mark reporta un dolor persistente y molesto en la parte baja de la espalda que comenzó de forma gradual y ha empeorado durante el último mes. El dolor es más intenso por las mañanas y después de pasar mucho tiempo sentado en su escritorio, pero mejora al moverse. Niega que el dolor se irradie hacia las piernas y no presenta entumecimiento o debilidad. No hay antecedentes de traumatismos ni levantamiento de objetos pesados, aunque tiene un trabajo de oficina que requiere estar sentado por largas horas. Ha estado tomando ibuprofeno de venta libre, con algo de alivio, pero el dolor regresa por la noche. No presenta fiebre, pérdida de peso ni alteraciones en el control de esfínteres.
+Antecedentes Médicos Personales
+      * Hipertensión leve desde hace 5 años (en tratamiento con amlodipina 5 mg diarios)
+      * Obesidad (IMC ~31)
+      * Sin cirugías previas
+Antecedentes Familiares
+      * Padre: Hipertensión, enfermedad degenerativa del disco
+      * Madre: Diabetes tipo 2
+Historia Social
+      * Trabajo de oficina, estilo de vida sedentario
+      * No fuma, consume alcohol ocasionalmente (~1-2 bebidas los fines de semana)
+      * Realiza poco ejercicio, pasa muchas horas frente al computador
+      * Casado, con familia que le brinda apoyo
+Revisión por Sistemas
+      * Musculoesquelético: Rigidez matutina, sin hinchazón ni enrojecimiento articular
+      * Neurológico: Niega entumecimiento, debilidad o hormigueo en las piernas
+      * General: No fiebre, escalofríos ni pérdida de peso inexplicada
+      * Genitourinario: No presenta incontinencia ni dificultad para orinar
+Notas Adicionales
+      * Mark está preocupado porque su dolor de espalda pueda deberse a algo serio como una hernia discal.
+      * Desea recibir recomendaciones sobre cambios ergonómicos y opciones no farmacológicas para aliviar el dolor.
+________________
+
+
+मामला: कमर दर्द  
+मरीज़ की जानकारी
+मरीज़ का नाम: मार्क रेनॉल्ड्स, 45 वर्षीय पुरुष 
+मुख्य शिकायत: पिछले 4 हफ़्तों से कमर के निचले हिस्से में दर्द
+मौजूदा बीमारी का इतिहास
+मार्क को लगभग एक महीने से अपनी कमर के निचले हिस्से में हल्का, मंद-मंद दर्द हो रहा है। दर्द धीरे-धीरे शुरू हुआ और अब बढ़ता जा रहा है। यह दर्द सुबह के समय और काम पर लंबे समय तक बैठे रहने के बाद सबसे ज़्यादा होता है। घूमने-फिरने पर दर्द में आराम मिलता है। उन्हें दर्द टांगों में नीचे की तरफ जाता हुआ महसूस नहीं होता। उन्हें कोई सुन्नपन या कमज़ोरी भी महसूस नहीं होती है। हाल में उन्हें कोई चोट नहीं लगी है और न ही उन्होंने कोई भारी सामान उठाया है। मार्क डेस्क पर काम करते हैं और हर दिन कई घंटों तक बैठे रहते हैं। वह बाज़ार से खरीदी हुई आइबुप्रोफ़ेन ले रहे हैं, जिससे थोड़ा आराम मिलता है, लेकिन बाद में दिन में दर्द वापस आ जाता है। उन्हें न तो बुखार आया है, न ही वज़न कम हुआ है, और न ही टॉयलेट इस्तेमाल करने में कोई परेशानी हुई है।
+पिछला मेडिकल इतिहास
+      * मार्क को 5 साल से हल्का हाई ब्लड प्रेशर है। वह हर दिन अम्लोडिपिन नाम की गोली लेते हैं।
+      * उनका वज़न ज़्यादा है (उनके डॉक्टर का कहना है कि उनका बीएमआई लगभग 31 है)।
+      * उनकी कभी कोई सर्जरी नहीं हुई है।
+परिवारिक इतिहास
+      * पिता: हाई ब्लड प्रेशर (हाइपरटेंशन), कमर की समस्या (डिजेनरेटिव डिस्क डिज़ीज़)।
+      * माँ: टाइप 2 डायबिटीज़।
+रहन-सहन और आदतें
+      * मार्क एक ऑफिस में काम करते हैं और ज़्यादातर बैठे रहते हैं, ज़्यादा कसरत-व्यायाम नहीं करते।
+      * सिगरेट नहीं पीते, कभी-कभी शराब पीते हैं—सप्ताहांत में लगभग 1 या 2 ड्रिंक।
+      * वह शादीशुदा हैं और उनका परिवार सहयोगी है।
+शारीरिक लक्षणों की समीक्षा (Review of Systems)
+      * शरीर और मांसपेशियाँ: सुबह उनकी कमर में अकड़न महसूस होती है, लेकिन उनके जोड़ों में कोई लाली या सूजन नहीं है।
+      * नसें: उन्हें अपनी टांगों में कोई झुनझुनी या कमज़ोरी महसूस नहीं होती।
+      * आम स्वास्थ्य: उन्हें बुखार नहीं है और न ही वह बहुत थका हुआ महसूस करते हैं।
+      * ब्लैडर और पेशाब: उन्हें पेशाब करने या टॉयलेट इस्तेमाल करने में कोई परेशानी नहीं है।
+अतिरिक्त जानकारी
+      * मार्क इस बात को लेकर चिंतित हैं कि कहीं उनकी कमर का दर्द कोई गंभीर समस्या तो नहीं, जैसे कि स्लिप्ड डिस्क।
+      * वह बिना दवा के अपनी कमर को बेहतर महसूस कराने के लिए सुझाव चाहते हैं।
+      * वह इस बारे में सलाह मांग रहे हैं कि कैसे बैठें और काम करें ताकि उनकी कमर के लिए बेहतर हो।
