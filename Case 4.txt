@@ -1,0 +1,132 @@
+﻿Case: Fatigue  
+Patient Information
+Name: Sarah Mitchell, 40-year-old female
+Chief Complaint: Fatigue and dizziness for the past 3 months
+History of Present Illness
+Sarah says she feels really tired all the time, even though she sleeps 7 to 8 hours every night. She says the tiredness is so strong that it’s hard for her to get through the day. For the past month, she’s also felt dizzy sometimes, especially when she stands up too fast. The dizzy feeling lasts a few seconds and sometimes makes her feel a little sick to her stomach, but she hasn’t fainted. She does not have chest pain, trouble breathing, or a fast heartbeat. Sarah has had type 2 diabetes for 6 years. Lately, her blood sugar has been high, and she hasn’t been checking it regularly. The last number she remembers was 250, which is higher than normal (normal is under 100 before eating).
+She hasn’t been taking her diabetes medicine (metformin) every day because it makes her stomach hurt. She still eats out a lot because she’s busy and hasn’t changed her diet. She hasn’t been sick recently.
+Past Medical History
+* Diabetes (Type 2): Found out 6 years ago. She takes a medicine called metformin, but not every day
+* High Blood Pressure: Found out 3 years ago. She takes a medicine called amlodipine every day
+* High Cholesterol: Found out 2 years ago. She isn’t taking any medicine for it right now
+* Surgeries: She has never had surgery
+Family History
+* Mother: Type 2 diabetes, high blood pressure
+* Father: Passed away from a heart attack at 55
+* Older brother: Also has diabetes
+Social History
+* Works full-time as an office manager, sedentary job
+* Eats fast food 3–4 times a week, struggles with meal prep
+* Does not smoke; drinks wine occasionally (~1–2 glasses/week)
+* No regular exercise
+* Married, no children
+Review of Systems
+* General: She feels tired and has lost about 5 pounds in the last 2 months without trying
+* Nerves and Brain: She feels dizzy when she stands up, but hasn’t fainted and doesn’t have headaches
+* Heart and Blood: No chest pain, no fast heartbeat, and no swelling in her legs
+* Stomach: Sometimes feels bloated or a little sick to her stomach, especially after taking her diabetes medicine (metformin)
+* Hormones: She feels very thirsty and wakes up at night to pee.
+* Mood: Work has been stressful, but she says she is not feeling depressed or anxious
+Additional Notes
+* Sarah wants to talk about how to take better care of her diabetes and if she should change her medicine
+* She’s also worried about her dizziness and wants to know if it’s because of her blood pressure or blood sugar.
+________________
+病例：疲劳  
+患者信息
+姓名：莎拉·米切尔（Sarah Mitchell），40岁女性
+主诉：疲劳和头晕持续3个月
+现病史
+Sarah 表示她总是感到非常疲惫，尽管每晚睡眠7到8小时，但仍觉得整天精力不足。过去一个月，她有时还会感到头晕，特别是在突然站起时。这种头晕持续几秒钟，有时伴有轻微恶心，但她从未昏倒。她没有胸痛、呼吸困难或心跳加快的症状。Sarah 罹患2型糖尿病已有6年。最近，她的血糖偏高，也没有规律监测血糖。她记得上一次的血糖读数是250 mg/dL，远高于正常空腹值（<100）。她并未每天服用糖尿病药物（格华止 metformin），因为该药会导致胃部不适。由于工作繁忙，她常在外用餐，也没有改变饮食习惯。她近期未患病。
+既往病史
+   * 2型糖尿病：6年前确诊，服用二甲双胍（不规律）
+   * 高血压：3年前确诊，服用氨氯地平10毫克每天
+   * 高血脂：2年前确诊，目前未服用药物
+   * 无手术史
+家族史
+   * 母亲：2型糖尿病、高血压
+   * 父亲：55岁时因心脏病去世
+   * 哥哥：也患有糖尿病
+社会史
+   * 全职办公室经理，久坐工作
+   * 每周吃快餐约3–4次，难以准备健康餐食
+   * 不吸烟，偶尔饮用葡萄酒（约每周1–2杯）
+   * 无规律锻炼
+   * 已婚，无子女
+全身系统回顾
+   * 全身性：疲劳，2个月内无意中体重下降约5磅
+   * 神经系统：站立时头晕，无晕厥或头痛
+   * 心血管系统：无胸痛、心悸或下肢水肿
+   * 胃肠系统：偶有腹胀与恶心，特别是在服用二甲双胍后
+   * 内分泌系统：夜间口渴和排尿增多
+   * 情绪方面：因工作压力感到紧张，但否认抑郁或焦虑
+补充说明
+   * Sarah希望讨论更有效的糖尿病管理方式，并了解是否需要更换药物。
+   * 她也担心自己的头晕是否与血压或血糖波动有关。
+________________
+
+
+Caso: Fatiga  
+Información del Paciente
+Nombre: Sarah Mitchell, mujer de 40 años
+Motivo de Consulta: Fatiga y mareos desde hace 3 meses
+Historia de la Enfermedad Actual
+Sarah reporta sentirse constantemente cansada a pesar de dormir entre 7 y 8 horas cada noche. Describe su fatiga como abrumadora, lo que le dificulta sobrellevar el día. En el último mes también ha experimentado episodios de mareo, especialmente al ponerse de pie rápidamente. Estos episodios duran unos segundos y, en ocasiones, se acompañan de náuseas leves, pero sin desmayos. Niega dolor en el pecho, dificultad para respirar o palpitaciones. Tiene diabetes tipo 2 desde hace 6 años, pero admite que sus niveles de glucosa han estado elevados últimamente. No se ha estado controlando regularmente, pero recuerda que su último valor fue de 250 mg/dL [el valor normal en ayunas es menor de 100 mg/dL]. Ha tomado metformina de forma inconsistente debido a molestias estomacales. No ha hecho cambios recientes en su dieta y reconoce que come fuera con frecuencia por su agenda ocupada. No ha tenido infecciones ni enfermedades recientes.
+Antecedentes Médicos Personales
+   * Diabetes tipo 2: diagnosticada hace 6 años, en tratamiento con metformina (uso irregular)
+   * Hipertensión: diagnosticada hace 3 años, en tratamiento con amlodipina 10 mg diarios
+   * Hiperlipidemia (colesterol alto): diagnosticada hace 2 años, sin tratamiento actual
+   * Sin cirugías previas
+Antecedentes Familiares
+   * Madre: diabetes tipo 2, hipertensión
+   * Padre: falleció de un infarto a los 55 años
+   * Hermano mayor: también tiene diabetes
+Historia Social
+   * Trabaja tiempo completo como gerente de oficina; trabajo sedentario
+   * Come comida rápida 3–4 veces por semana; dificultad para preparar comidas
+   * No fuma; consume vino ocasionalmente (~1–2 copas/semana)
+   * No realiza ejercicio regularmente
+   * Casada, sin hijos
+Revisión por Sistemas
+   * General: Fatiga, pérdida de peso no intencional de ~5 lb en 2 meses
+   * Neurológico: Mareo al ponerse de pie, sin desmayos ni cefaleas
+   * Cardiovascular: Sin dolor torácico, palpitaciones ni hinchazón en las piernas
+   * Gastrointestinal: Distensión abdominal y náuseas ocasionales, especialmente tras tomar metformina
+   * Endocrino: Aumento de la sed y de la frecuencia urinaria nocturna
+   * Estado de ánimo: Se siente estresada por el trabajo, pero niega depresión o ansiedad
+Notas Adicionales
+   * Sarah desea discutir mejores formas de manejar su diabetes y si necesita un cambio en su medicación.
+   * También le preocupa el mareo y si podría estar relacionado con su presión arterial o sus niveles de glucosa.
+मामला: थकान  
+मरीज़ की जानकारी
+मरीज़ का नाम: सारा मिशेल, 40 वर्षीय महिला
+मुख्य शिकायत: पिछले 3 महीनों से थकान और चक्कर आना
+मौजूदा बीमारी का इतिहास
+सारा का कहना है कि वह हर समय बहुत थका हुआ महसूस करती है, भले ही वह हर रात 7 से 8 घंटे सोती है। उसका कहना है कि थकान इतनी ज़्यादा होती है कि उसके लिए दिन बिताना मुश्किल हो जाता है। पिछले महीने से, उसे कभी-कभी चक्कर भी आते हैं, खासकर जब वह बहुत तेज़ी से खड़ी होती है। चक्कर कुछ सेकंड तक रहता है और कभी-कभी उसका जी मिचलाने लगता है, लेकिन वह बेहोश नहीं हुई है। उसे सीने में दर्द, सांस लेने में तकलीफ या दिल की धड़कन तेज़ होने की समस्या नहीं है।
+
+
+सारा को 6 साल से टाइप 2 डायबिटीज़ है। हाल ही में, उसका ब्लड शुगर बढ़ा हुआ है, और वह इसे नियमित रूप से जांच नहीं रही है। आखिरी जो नंबर उसे याद है वह 250 था, जो सामान्य से ज़्यादा है (सामान्य खाने से पहले 100 से कम होता है)। वह अपनी डायबिटीज़ की दवा (मेटफॉर्मिन) हर दिन नहीं ले रही है क्योंकि इससे उसके पेट में दर्द होता है। वह अभी भी बहुत बाहर खाती है क्योंकि वह व्यस्त रहती है और उसने अपने खान-पान में कोई बदलाव नहीं किया है। वह हाल-फिलहाल में बीमार नहीं हुई है।
+पिछला मेडिकल इतिहास
+   * डायबिटीज़ (टाइप 2): 6 साल पहले पता चला। वह मेटफॉर्मिन नाम की दवा लेती है, लेकिन हर दिन नहीं।
+   * हाई ब्लड प्रेशर: 3 साल पहले पता चला। वह हर दिन अम्लोडिपिन नाम की दवा लेती है।
+   * हाई कोलेस्ट्रॉल: 2 साल पहले पता चला। वह अभी इसके लिए कोई दवा नहीं ले रही है।
+   * सर्जरी: उनकी कभी कोई सर्जरी नहीं हुई है।
+पारिवारिक इतिहास
+   * माँ: टाइप 2 डायबिटीज़, हाई ब्लड प्रेशर।
+   * पिता: 55 साल की उम्र में हार्ट अटैक से देहांत हो गया।
+   * बड़े भाई: उन्हें भी डायबिटीज़ है।
+रहन-सहन और आदतें
+   * ऑफिस मैनेजर की फुल-टाइम नौकरी है, जिसमें ज़्यादातर बैठे रहना होता है।
+   * हफ्ते में 3-4 बार फास्ट फूड खाती हैं, घर पर खाना बनाने में मुश्किल होती है।
+   * सिगरेट नहीं पीतीं; कभी-कभी वाइन पीती हैं (हफ्ते में लगभग 1-2 गिलास)।
+   * नियमित रूप से कोई कसरत व्यायाम नहीं करतीं।
+   * शादीशुदा हैं, बच्चे नहीं हैं।
+शारीरिक लक्षणों की समीक्षा (Review of Systems)
+   * आम तौर पर: वह थका हुआ महसूस करती हैं और बिना कोशिश किए पिछले 2 महीनों में उनका वज़न लगभग 5 पाउंड (करीब 2.2 किलो) कम हो गया है।
+   * नसें और दिमाग: जब वह खड़ी होती हैं तो चक्कर आते हैं, लेकिन बेहोश नहीं हुई हैं और सिरदर्द भी नहीं होता।
+   * दिल और खून: सीने में दर्द नहीं, दिल की धड़कन तेज़ नहीं होती, और पैरों में सूजन नहीं है।
+   * पेट: कभी-कभी पेट फूला हुआ लगता है या जी मिचलाता है, खासकर डायबिटीज़ की दवा (मेटफॉर्मिन) लेने के बाद।
+   * हार्मोन: उन्हें बहुत प्यास लगती है और रात में पेशाब के लिए उठना पड़ता है।
+   * मनोदशा: काम में तनाव रहा है, लेकिन उनका कहना है कि वह उदास या चिंतित महसूस नहीं कर रही हैं।
+अतिरिक्त जानकारी
+   * सारा इस बारे में बात करना चाहती हैं कि वे अपनी डायबिटीज़ की बेहतर देखभाल कैसे करें और क्या उन्हें अपनी दवा बदलनी चाहिए।
+   * वह अपने चक्कर आने को लेकर भी परेशान हैं और जानना चाहती हैं कि यह उनके ब्लड प्रेशर की वजह से है या ब्लड शुगर की वजह से।
